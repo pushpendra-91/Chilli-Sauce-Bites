@@ -1,3 +1,5 @@
 # Chilli-Sauce-Bites
-E-commerce Website (Food Industry Project)
-![image](https://user-images.githubusercontent.com/63816783/190488517-0e3ed204-f5c2-41c1-89f9-44ac8769433e.png)
+E-commerce Website (Food Industry Project) Using NodeJs which Simulates food order and payments.
+![1](https://user-images.githubusercontent.com/63816783/190488951-905d0fd1-bfe4-492a-81eb-656e8c2f3705.png)
+
+
