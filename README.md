@@ -12,8 +12,8 @@
 ## Cart & Checkout
 ![3](https://user-images.githubusercontent.com/63816783/190696252-8d0eec11-6684-46bc-83e2-a7dd86f57b01.png)
 </br>
- 
-##Payment
+
+## Payment
 ![6](https://user-images.githubusercontent.com/63816783/190696686-d8d98c96-5be3-4a07-a289-cd06f5a9a114.png)
 </br>
 
